@@ -1,3 +1,7 @@
 # Hicham 
 
-I am Hicham Siuuuuuu
+I am Hicham 
+I live in Antwerp
+I am studying Automation
+
+Siuuuuuu
