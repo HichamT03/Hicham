@@ -1,7 +1,11 @@
-# Hicham 
+# ¡Hola, soy Hicham! 👋
 
-I am Hicham 
-I live in Antwerp
-I am studying Automation
+## 🎓 Estudios
+- **Grado en Automatation** en AP Hogeschool 
+- Actualmente cursando (2024–2025)
 
-Siuuuuuuu
+
+## 🛠️ Habilidades
+- Lenguajes: Python, JavaScript, SQL  
+- Frameworks: React, Node.js  
+- Herramientas: Git, Docker, CI/CD
